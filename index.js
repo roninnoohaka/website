@@ -96,7 +96,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed = 2;
-Typer.file = 'CodeNerve.txt';
+Typer.file = 'ronin.txt';
 Typer.init();
 
 var timer = setInterval('t();', 30);
